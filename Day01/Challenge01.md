@@ -23,7 +23,8 @@ Here are some basic Linux commands I learned today:
 - `touch` - Create an empty file
 
 ## Resources
-- [Linux Documentation](https://www.kernel.org/doc/html/latest/)
+- [Linux Journey](https://linuxjourney.com/)
+- [Explain Shell](https://explainshell.com/)
 - [Linux Command Line Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/)
 
 ## Reflection
