@@ -1,6 +1,16 @@
-# **Day 03: Managing Files and Directories**
+# Challenge Day 03: 
 
-## **Objective**
+---
+
+### Current Status
+- **Day Completed**: 3
+- **Total Days in Challenge**: 90
+
+---
+
+## Day 03: Managing Files and Directories
+
+## Objective
 Today’s challenge is all about mastering file and directory management in Linux. Practiced create, move, copy, and delete files and directories using various commands, with real-world DevOps use cases that demonstrate how these operations are applied in automation, system management, and deployments.
 
 ---

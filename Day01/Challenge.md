@@ -1,4 +1,15 @@
-# Day 01: Introduction to Linux
+# Challenge Accepted: Day 01
+
+---
+
+### Current Status
+- **Day Completed**: 1
+- **Total Days in Challenge**: 90
+
+---
+
+## Day 01: Introduction to Linux
+
 
 ## Overview
 Welcome to Day 01 of my 90-day DevOps challenge! Today, I embarked on my journey to learn the fundamentals of Linux, which is crucial for any DevOps engineer.

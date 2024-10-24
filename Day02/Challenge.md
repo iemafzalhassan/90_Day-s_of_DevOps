@@ -1,10 +1,15 @@
-# **90-Day DevOps Challenge**
-
-## **Days 02–07: Mastering Linux (Basic to Advanced)**
+# Challenge Day 02: 
 
 ---
 
-## **Day 02: Understanding the Linux File System Hierarchy**
+### Current Status
+- **Day Completed**: 2
+- **Total Days in Challenge**: 90
+
+---
+
+## Day 02: Understanding the Linux File System Hierarchy
+
 
 ### **Objective**
 Today, we will explore the Linux file system, understanding its directory structure and purpose. This is foundational knowledge for any DevOps professional, as you need to know where files are stored and how to navigate the file system.

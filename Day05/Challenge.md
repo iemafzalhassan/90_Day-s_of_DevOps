@@ -1,12 +1,20 @@
-# 📅 Day 05: Advanced Linux Shell Scripting for DevOps Engineers with User Management
+# Challenge Day 05: 
 
-## 🚀 **Tasks Completed:**
+---
+
+### Current Status
+- **Day Completed**: 5
+- **Total Days in Challenge**: 90
+
+---
+
+# Day 05: Advanced Linux Shell Scripting for DevOps Engineers with User Management
 
 ### 1. **Create Multiple Directories Using Shell Script:**
 
 In this task, I created a shell script that takes multiple directory names as input from the user and creates them all at once. This is useful for quickly setting up multiple project directories.
 
-#### Example Script:
+#### Script:
 ```bash
 #!/bin/bash
 
@@ -40,7 +48,7 @@ done
 
 This task involved creating a shell script to back up a source directory into a destination folder provided as arguments. It automates the backup process for important work files.
 
-#### Example Backup Script:
+#### Backup Script:
 ```bash
 #!/bin/bash
 
@@ -153,7 +161,7 @@ echo "User $username created with full name '$fullname' and a password has been 
 
 I explored `cron` and `crontab`, which are used for scheduling repetitive tasks like daily backups. I scheduled my backup script to run automatically every day at midnight using `crontab`.
 
-#### Example Cron Job:
+#### Cron Job:
 ```bash
 crontab -e
 ```
