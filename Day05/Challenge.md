@@ -1,10 +1,5 @@
 # 📅 Day 05: Advanced Linux Shell Scripting for DevOps Engineers with User Management
 
-### Summary:
-On the 5th day of my #90DaysOfDevOps challenge, I focused on essential Linux tasks like creating multiple directories, automating backups, user management through shell scripting, and scheduling automated backups using cron jobs.
-
----
-
 ## 🚀 **Tasks Completed:**
 
 ### 1. **Create Multiple Directories Using Shell Script:**
