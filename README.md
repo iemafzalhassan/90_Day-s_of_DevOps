@@ -2,6 +2,12 @@
 
 Welcome to my **90 Days of DevOps Challenge** repository! This project documents my journey to learn essential DevOps tools and practices over the next three months. Each day focuses on a specific tool or concept to enhance my skills and knowledge in the field of DevOps.
 
+---
+
+Join #TrainWithShubham Community on an exhilarating journey of learning and growth as we embark on the #90DaysofChallenge!
+
+---
+
 ## Table of Contents
 
 - [Challenge Overview](#challenge-overview)
