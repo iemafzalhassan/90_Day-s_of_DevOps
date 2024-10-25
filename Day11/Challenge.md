@@ -6,9 +6,11 @@
 - **Day Completed**: 11
 - **Total Days in Challenge**: 90
 
+Join #TrainWithShubham Community on an exhilarating journey of learning and growth as we embark on the #90DaysofChallenge!
+
 ---
 
-## Day 10 Challenge: Error Handling in Shell Scripting
+## Day 11 Challenge: Error Handling in Shell Scripting
 
 ## Learning Objectives
 Today, I focused on understanding how to handle errors in shell scripts to create robust and reliable code. The key objectives were:

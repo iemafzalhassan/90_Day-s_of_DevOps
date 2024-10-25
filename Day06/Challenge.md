@@ -6,6 +6,8 @@
 - **Day Completed**: 6
 - **Total Days in Challenge**: 90
 
+Join #TrainWithShubham Community on an exhilarating journey of learning and growth as we embark on the #90DaysofChallenge!
+
 ---
 
 ## Day 08: File Permissions and Access Control Lists

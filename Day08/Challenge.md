@@ -6,6 +6,8 @@
 - **Day Completed**: 8
 - **Total Days in Challenge**: 90
 
+Join #TrainWithShubham Community on an exhilarating journey of learning and growth as we embark on the #90DaysofChallenge!
+
 ---
 
 ## Day 8: Shell Scripting Challenge
